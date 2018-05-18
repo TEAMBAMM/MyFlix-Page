@@ -8,7 +8,7 @@ MyFlix is a media server application that can let you do that! It not only can b
 (insert pictures of app here)
   
   
-Our GitHub Repo: https://github.com/TEAMBAMM/myflix
+Check out our GitHub [Repo](https://github.com/TEAMBAMM/myflix).
 
 MyFlix is built on Electron and React. You can download installers here:
 
