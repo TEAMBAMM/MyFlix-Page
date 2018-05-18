@@ -10,6 +10,6 @@ MyFlix is a media server application that can let you do that! It not only can b
   
 Our GitHub Repo: https://github.com/TEAMBAMM/myflix
 
+MyFlix is built on Electron and React. You can download installers here:
 
-
-Link to installers: 
+(Link to installers)
