@@ -10,4 +10,4 @@ Check out our GitHub [Repo](https://github.com/TEAMBAMM/myflix).
 MyFlix is built on Electron and React. You can download installers here:
 
 Link to installers:
- [Windows](myflix/dist/MyFlix Setup 0.1.0.exe)
+ [Windows]()
