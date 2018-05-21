@@ -11,4 +11,4 @@ MyFlix is built on Electron and React. You can download installers here:
 
 Link to installers:
  - [Windows](https://github.com/TEAMBAMM/myflix/raw/master/dist/MyFlix%20Setup%200.1.0.exe)
- - [Mac](https://drive.google.com/open?id=1FaJjtFE1CXpspsp6xDmnkkMb4wDuiFxg)
+ - [Mac]()
